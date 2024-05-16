@@ -17,7 +17,6 @@ This summer, I will be conducting research under the guidance of Dr. Orit Peleg,
 
 ## About My Project
 
-Project description goes here.
 
 [My Final Report](files/finalreport.pdf)
 
