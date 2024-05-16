@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2024 DREU Project Site
 ---
 
 * TOC
@@ -8,7 +8,8 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Nina van Hoorn and I am currently pursing a Computer Science degree at Skidmore College. Alongside my major, I intend to minor in mathematics and recieve an honors minor when I graduate in Spring 2025.
+You can contact me by email at nvhoorn@gmail.com.
 
 ## About My Mentor
 
