@@ -13,7 +13,7 @@ You can contact me by email at nvhoorn@gmail.com.
 
 ## About My Mentor
 
-Mentor info goes here.
+This summer, I will be conducting research under the guidance of Dr. Orit Peleg, a professor in the Computer Science Department at the University of Colorado Boulder. Dr. Peleg is currently studying how organisms, particularly honeybee clusters, adapt to environmental changes. To learn more about Dr. Peleg or her research, visit her website at https://www.colorado.edu/biofrontiers/orit-peleg.
 
 ## About My Project
 
