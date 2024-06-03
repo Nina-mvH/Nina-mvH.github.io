@@ -13,11 +13,11 @@ You can contact me by email at nvhoorn@gmail.com.
 
 ## About My Mentor
 
-This summer, I will be conducting research under the guidance of Dr. Orit Peleg, a professor in the Computer Science Department at the University of Colorado Boulder. Dr. Peleg is currently studying how organisms (particulaly honeybees) adapt to environmental changes, such as temperature changes. To learn more about Dr. Peleg or her research, visit her website at https://www.colorado.edu/biofrontiers/orit-peleg.
+This summer, I will be conducting research under Dr. Orit Peleg, a professor in the Computer Science Department at the University of Colorado Boulder. Dr. Peleg is currently studying how organisms (particulaly honeybees) adapt to environmental changes, such as temperature changes. To learn more about Dr. Peleg or her research, visit her website at https://www.colorado.edu/biofrontiers/orit-peleg.
 
 ## About My Project
 
-In order to better understand how honeybee swarms change in response to environmental changes, Dr. Peleg's lab has developed an initial proof-of-concept neural network to identify individual bees in 3D images. My goal this summer is to improve this neural network by experimenting with different architectures, exploring other types of machine learning models, and adding more training data.
+In order to better understand how honeybee swarms change in response to environmental changes (particularly tempertature), Dr. Peleg's lab has developed an initial proof-of-concept neural network to identify individual bees in 3D images. My goal this summer is to improve this neural network by experimenting with different architectures, exploring other types of machine learning models, adding more training data, and performing analysis on the data that I already have. 
 
 [My Final Report](files/finalreport.pdf)
 
