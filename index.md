@@ -25,4 +25,4 @@ In order to better understand how honeybee swarms change in response to environm
 
 ## My Blog
 
-To read about the research I completed on a weekly basis, visit [my blog](blog.html)
+To read about the research I completed on a weekly basis, visit [my blog](blog.html).
