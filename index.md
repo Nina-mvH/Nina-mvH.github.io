@@ -15,7 +15,7 @@ You can contact me by email at nvhoorn@gmail.com.
 
 This summer, I will be conducting research under Dr. Orit Peleg, a professor in the Computer Science Department at the University of Colorado Boulder. Dr. Peleg is currently studying how organisms (particulaly honeybees) adapt to environmental changes, such as temperature changes. To learn more about Dr. Peleg or her research, visit her website at [https://www.colorado.edu/biofrontiers/orit-peleg](https://www.colorado.edu/biofrontiers/orit-peleg).
 
-I'm also working more closely under Danielle Chase, a postdoctoral fellow working in Dr. Peleg's lab. She is the person who I will be meeting with on a regular basis and who will help me throughout the summer conducting my own research.
+I'm also working more directly under Danielle Chase, a postdoctoral fellow in Dr. Peleg's lab. She is the person who I will be meeting with on a regular basis and who will help me throughout the summer conducting my own research.
 
 ## About My Project
 
