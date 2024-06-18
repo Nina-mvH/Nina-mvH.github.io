@@ -14,6 +14,7 @@ You can contact me by email at nvhoorn@gmail.com.
 ## About My Mentor
 
 This summer, I will be conducting research under Dr. Orit Peleg, a professor in the Computer Science Department at the University of Colorado Boulder. Dr. Peleg is currently studying how organisms (particulaly honeybees) adapt to environmental changes, such as temperature changes. To learn more about Dr. Peleg or her research, visit her website at https://www.colorado.edu/biofrontiers/orit-peleg.
+I'm also working more closely under Danielle Chase, a member of Dr. Peleg's lab. 
 
 ## About My Project
 
@@ -23,4 +24,4 @@ In order to better understand how honeybee swarms change in response to environm
 
 ## My Blog
 
-[My Blog](blog.html)
+To read about the research I completed on a weekly basis, visit [my blog](blog.html)
